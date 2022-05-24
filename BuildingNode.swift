@@ -64,7 +64,6 @@ class BuildingNode: SKSpriteNode {
                     }
                 }
 
-                // 4
             }
 
             return img
